@@ -1,0 +1,70 @@
+D:\BACKOFFICE
++---.venv
+|   +---Include
+|   |   \---site
+|   |       \---python3.11
+|   |           \---greenlet
+|   +---Lib
+|   |   \---site-packages
+|   |       
++---backoffice
+|   +---management
+|   |   \---commands
+|   |       \---__pycache__
+|   +---migrations
+|   |   \---__pycache__
+|   \---__pycache__
++---backoffice_project
+|   +---staticfiles
+|   \---__pycache__
++---media
+|   \---admin-interface
+|       \---logo
++---static
+|   +---admin
+|   |   +---css
+|   |   |   \---vendor
+|   |   |       \---select2
+|   |   +---img
+|   |   |   \---gis
+|   |   +---jquery.ui.datepicker.jalali
+|   |   |   +---scripts
+|   |   |   \---themes
+|   |   |       \---base
+|   |   |           \---images
+|   |   \---js
+|   |       +---admin
+|   |       \---vendor
+|   |           +---jquery
+|   |           +---select2
+|   |           |   \---i18n
+|   |           \---xregexp
+|   +---admin_interface
+|   |   +---collapsible-inlines
+|   |   +---css
+|   |   |   \---third-party
+|   |   +---favico
+|   |   +---foldable-apps
+|   |   +---magnific-popup
+|   |   +---related-modal
+|   |   \---tabbed-changeform
+|   +---ckeditor
+|   |   \---ckeditor
+|   |       \---skins
+|   |           \---light
+|   |               \---images
+|   |                   \---hidpi
+|   +---colorfield
+|   |   \---jscolor
+|   +---django_extensions
+|   |   +---css
+|   |   +---img
+|   |   \---js
+|   +---django_select2
+|   +---fonts
+|   |   \---vazir
+|   +---import_export
+|   +---js
+|   \---streamfield
+|       \---js
+\---__pycache__
